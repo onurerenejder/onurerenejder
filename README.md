@@ -18,7 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurerennn&show_icons=true&locale=en" alt="onurerennn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onurerennn&" alt="onurerennn" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurerennn&label=Profile%20views&color=0e75b6&style=flat" alt="onurerennn" /> </p>
 
