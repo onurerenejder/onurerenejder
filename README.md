@@ -9,7 +9,7 @@
 📂 Here you can find my projects, research, and practical implementations from my learning journey.
 
 ## Contact Me
-<p><a href="www.linkedin.com/in/onur-eren-ejde" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+<p><a href="www.linkedin.com/in/onur-eren-ejder" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
 ## Skills
 
