@@ -13,7 +13,7 @@
 ### 🚀 AI/ML Engineer | Full-Stack Web Developer | Autonomous Systems & Robotics
 **Yazılım & Makine Mühendisi**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onur-erenejder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onur-eren-ejder)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://onurerenejder.com.tr)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Onurerenejder6@gmail.com)
 
